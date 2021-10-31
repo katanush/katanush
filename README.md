@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katanush
+- 👋 Hi, I’m Catalin
 - 👀 I’m interested in computers 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any python projects that i can bring some sort of contribution
